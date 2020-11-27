@@ -2,6 +2,7 @@
 <h3 align="center">A student from Belgium</h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" height="320" /> 
 
 - 🌱 I’m currently learning **Data sciences**
 
