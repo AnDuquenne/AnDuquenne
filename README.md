@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Andreas Duquenne</h1>
 <h3 align="center">A student from Belgium</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" height="320" />
 
 - 🌱 I’m currently learning **Data sciences**
 
